@@ -1,38 +1,32 @@
 
 
 #1. Automated_Update
-source("//192.168.2.32/Group/Data Team/Abul/1. Development/1. FunctionalTools/R/1. ProductionReady/1. Automated_Update/1. Compiled_Functions/V3.1_Compiled_Function.R")
-source("//192.168.2.32/Group/Data Team/Abul/1. Development/1. FunctionalTools/R/1. ProductionReady/1. Automated_Update/2. SupportingCode/2. Invantory_File_Loading/V1.1_Invantory_File_Loading_Function.R")
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P1_UpdateAutomation/O2_P1_UpdateAutomation_PR_M_UpdateAutomationFun.R")
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P1_UpdateAutomation/O2_P1_UpdateAutomation_PR_SA1_InvantoryFileLoadingFun.R)
 #source()
 
 #2. Pricing_Update
-source("//192.168.2.32/Group/Data Team/Abul/1. Development/1. FunctionalTools/R/1. ProductionReady/2. Pricing_Update/1. Compiled_Functions_Pricing/V1.0_Compiled_Function_Pricing.R")
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P2_PricingUpdate/O2_P2_PricingUpdate_PR_M_PricingFunction.R")
 #source()
 
+
 #3. Data_Consolidation
-source("//192.168.2.32/Group/Data Team/Abul/1. Development/1. FunctionalTools/R/1. ProductionReady/3. Data_Consolidation/V2.0_Data_Consolidation.R")
-source("//192.168.2.32/Group/Data Team/Abul/1. Development/1. FunctionalTools/R/1. ProductionReady/3. Data_Consolidation/FeatureImageStitcher.R")
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P3_DataConsolidation/O2_P3_DataConsolidation_PR_M_DataConsolidationFun.R")
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P3_DataConsolidation/O2_P3_DataConsolidation_RnD_FeatureImageStitcher.R")
 #source()
 
 #4. TextAnalysis
-source("//192.168.2.32/Group/Data Team/Abul/1. Development/1. FunctionalTools/R/1. ProductionReady/4. TextAnalysis/1. Base/1. String_Word_Function/V1.0_String_Word_Function.R")
-source("//192.168.2.32/Group/Data Team/Abul/1. Development/1. FunctionalTools/R/1. ProductionReady/4. TextAnalysis/1. Base/2. RowMatch/V1.0_RowMatch.R")
-source("//192.168.2.32/Group/Data Team/Abul/1. Development/1. FunctionalTools/R/1. ProductionReady/4. TextAnalysis/2. NaiveBayes/1. NBPredict/V2.1_NBPredict.R")
-source("//192.168.2.32/Group/Data Team/Abul/1. Development/1. FunctionalTools/R/1. ProductionReady/4. TextAnalysis/2. NaiveBayes/1. NBPredict/V1.1_NBPredict.R")
-source("//192.168.2.32/Group/Data Team/Abul/1. Development/1. FunctionalTools/R/1. ProductionReady/4. TextAnalysis/2. NaiveBayes/2. NB_ModelFunction/V2.0_NB_ModelFunction.R")
-source("//192.168.2.32/Group/Data Team/Abul/1. Development/1. FunctionalTools/R/1. ProductionReady/4. TextAnalysis/2. NaiveBayes/3a. NB_ProbCalculator/V2.0_NB_ProbCalculator.R")
-source("//192.168.2.32/Group/Data Team/Abul/1. Development/1. FunctionalTools/R/1. ProductionReady/4. TextAnalysis/2. NaiveBayes/3b. NBProbDiagnosticTool/V1.0_NBProbDiagnosticTool.R")
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P4_TextAnalysis/O2_P4_TextAnalysis_PR_M_StringWordFun.R")
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P4_TextAnalysis/O2_P4_TextAnalysis_PR_M_RowMatch.R")
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P5_TextClassificationNB/O2_P5_TextClassificationNB_PR_M1_NBPredict.R")
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P5_TextClassificationNB/O2_P5_TextClassificationNB_PR_M2_NBModelFunction.R")
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P5_TextClassificationNB/O2_P5_TextClassificationNB_PR_M3_NBProbCalculator.R")
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P5_TextClassificationNB/O2_P5_TextClassificationNB_PR_SA1_NBPredictDiagnosticTool.R")
 
 #B1. SupportingCode
-source("//192.168.2.32/Group/Data Team/Abul/1. Development/1. FunctionalTools/R/1. ProductionReady/B1. SupportingCode/1. Base/QuickOutput.R.R")
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P6_SupportCode/O2_P5_SupportCode_PR_M_QuickOutput.R")
 #source()
 
 #B2. DiagnosticCode
-source("//192.168.2.32/Group/Data Team/Abul/1. Development/1. FunctionalTools/R/1. ProductionReady/B2. DiagnosticCode/1. Brand_Scanner/V1.0_Brand_Scanner.R")
-source("//192.168.2.32/Group/Data Team/Abul/1. Development/1. FunctionalTools/R/1. ProductionReady/B2. DiagnosticCode/5. Main--Check/V1.0_Main--Check.R")
-
-#Extra
-source("//192.168.2.32/Group/Data Team/Abul/1. Development/2. RnD/R_RnD/1. Data Projects/Extra.R")
-
-#Brand Performance Analysis
-source("//192.168.2.32/Group/Data Team/Abul/1. Development/1. FunctionalTools/R/1. ProductionReady/5. BrandPerformanceAnalysis/BPA_CallCode.R")
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P7_DiagnosticCode/O2_P6_DiagnosticCode_PR_M_BrandScannerFun.R")
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P7_DiagnosticCode/O2_P6_DiagnosticCode_PR_M_MainDashDashCheck.R")
