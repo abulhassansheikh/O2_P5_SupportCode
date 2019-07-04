@@ -21,10 +21,10 @@ source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P4_TextAnalysis/O2_P4_Tex
 source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P5_TextClassificationNB/O2_P5_TextClassificationNB_PR_M1_NBPredict.R")
 source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P5_TextClassificationNB/O2_P5_TextClassificationNB_PR_M2_NBModelFunction.R")
 source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P5_TextClassificationNB/O2_P5_TextClassificationNB_PR_M3_NBProbCalculator.R")
-source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P5_TextClassificationNB/O2_P5_TextClassificationNB_PR_SA1_NBPredictDiagnosticTool.R")
+#source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P5_TextClassificationNB/O2_P5_TextClassificationNB_PR_SA1_NBPredictDiagnosticTool.R")
 
 #B1. SupportingCode
-source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P6_SupportCode/O2_P5_SupportCode_PR_M_QuickOutput.R")
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P6_SupportCode/O2_P6_SupportCode_PR_M_QuickOutput.R")
 #source()
 
 #B2. DiagnosticCode
