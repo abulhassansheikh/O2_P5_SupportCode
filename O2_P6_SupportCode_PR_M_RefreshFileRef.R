@@ -28,5 +28,5 @@ source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P6_SupportCode/O2_P6_Supp
 #source()
 
 #B2. DiagnosticCode
-source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P7_DiagnosticCode/O2_P6_DiagnosticCode_PR_M_BrandScannerFun.R")
-source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P7_DiagnosticCode/O2_P6_DiagnosticCode_PR_M_MainDashDashCheck.R")
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P7_DiagnosticCode/O2_P7_DiagnosticCode_PR_M_BrandScannerFun.R")
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P7_DiagnosticCode/O2_P7_DiagnosticCode_PR_M_MainDashDashCheck.R")
