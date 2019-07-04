@@ -2,7 +2,7 @@
 
 #1. Automated_Update
 source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P1_UpdateAutomation/O2_P1_UpdateAutomation_PR_M_UpdateAutomationFun.R")
-source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P1_UpdateAutomation/O2_P1_UpdateAutomation_PR_SA1_InvantoryFileLoadingFun.R)
+source("//192.168.2.32/Group/Data Team/Abul/1. Code/O2_P1_UpdateAutomation/O2_P1_UpdateAutomation_PR_SA1_InvantoryFileLoadingFun.R")
 #source()
 
 #2. Pricing_Update
